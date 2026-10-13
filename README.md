@@ -8,7 +8,6 @@
 
 ## 📋 Descripción
 
-
 En este laboratorio implementarás un pipeline de **despliegue Canary** sobre **Google Cloud Run** usando **GitHub Actions**. El pipeline automatiza el ciclo completo:
 
 1. **Build** → construye la imagen Docker y la sube a Artifact Registry
